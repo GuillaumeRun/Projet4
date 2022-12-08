@@ -736,7 +736,11 @@ h4 {
 }
 
 .white {
+<<<<<<< HEAD
     color: black!important;
+=======
+    color: white!important;
+>>>>>>> parent of 688775b (Update style.css)
 }
 
 .portfolio-thumb {
