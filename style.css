@@ -333,10 +333,10 @@ a:hover {
     text-align: inherit;
 }
 
-.nav:hover > li a:hover,
-.nav:hover > li a:focus {
+.nav > li a:hover,
+.nav > li a:focus {
     background: whitesmoke;
-    color: #d14b0d;
+    
     
 }
 
