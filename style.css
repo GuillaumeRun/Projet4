@@ -335,7 +335,8 @@ a:hover {
 
 .nav:hover > li a:hover,
 .nav:hover > li a:focus {
-    background: transparent;
+    background: whitesmoke;
+    color: #d14b0d;
     
 }
 
