@@ -27,7 +27,7 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 .hover1:hover {
-    color: #de4d0a;
+    color: #de4d0a !important;
 }
 
 .bloc {
