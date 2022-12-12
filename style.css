@@ -336,7 +336,7 @@ a:hover {
 .nav:hover > li a:hover,
 .nav:hover > li a:focus {
     background: transparent;
-    color: orangered;
+    
 }
 
 .navbar-toggle {
