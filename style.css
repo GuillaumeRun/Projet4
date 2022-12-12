@@ -347,6 +347,7 @@ a:hover {
 
 .navbar-toggle:hover {
     background: transparent!important;
+    color: #d14b0d;
 }
 
 .navbar-toggle .icon-bar {
