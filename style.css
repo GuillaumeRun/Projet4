@@ -334,7 +334,7 @@ a:hover {
 }
 
 .nav:hover > li a:hover,
-.nav > li a:focus {
+.nav:hover > li a:focus {
     background: transparent;
     color: orangered;
 }
