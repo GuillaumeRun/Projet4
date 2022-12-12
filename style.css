@@ -27,9 +27,7 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
-a:hover {
-    color:#d14b0d
-}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -335,9 +333,10 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover,
+.nav:hover > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    color: orangered;
 }
 
 .navbar-toggle {
